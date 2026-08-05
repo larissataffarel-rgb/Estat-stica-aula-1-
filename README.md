@@ -1,7 +1,3 @@
-#Primeira aula
-
-#Analisando dados do google forms
-
-#Criando primeiro script no Colab
-
-#Importando arquivo Colab para o Github
+* **Karin Santos**- N° USP: 15674699
+* **Larissa Taffarel**- N° USP: 14669771  
+* **Laura Damásio**- N° USP: 13658280
